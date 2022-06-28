@@ -22,4 +22,8 @@ AWS, Azure, Google cloud 등 어떤 환경에서 돌아간다.
 리눅스에서는 이 방식을 리눅스 컨테이너라고 하고 단순히 프로세스를 격리시키기 때문에 가볍고 빠르게   
 실행이 가능하다.
 
-##
+## docker start 
+도커허브에서 이미지를 다운받는것 pull 도커 이미지를 실행하는것을 run이라 한다.
+run을 하면 image가 컨테이너가 되고 실행에 올려놓은 파일이 실행된다.
+
+<a href="docker-compose.yml">도커 설정 yml</a>
