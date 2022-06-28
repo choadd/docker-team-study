@@ -26,4 +26,12 @@ AWS, Azure, Google cloud 등 어떤 환경에서 돌아간다.
 도커허브에서 이미지를 다운받는것 pull 도커 이미지를 실행하는것을 run이라 한다.
 run을 하면 image가 컨테이너가 되고 실행에 올려놓은 파일이 실행된다.
 
-<a href="docker-compose.yml">도커 설정 yml</a>
+
+docker 사용법!</br>
+
+<a href="https://poiemaweb.com/docker-mysql">도커 사용하여 mysql설치</a></br>
+<a href="http://jmlim.github.io/docker/2019/07/30/docker-mysql-setup/">도커 사용하여 mysql설치2</a></br>
+
+intellij에서 docker 사용법</br></br>
+<a href="https://www.youtube.com/watch?v=ck6xQqSOlpw&t=603s&ab_channel=IntelliJIDEAbyJetBrains">intellij에서 docker</a></br>
+<a href="https://github.com/choadd/docker-team-study/blob/291ad7243cab2da743fc14b7b393958cd53b9a87/jun/docker/docker-compose.yml">도커 설정 yml</a>
